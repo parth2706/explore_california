@@ -1,0 +1,4 @@
+This is the 2nd temporary file. This is used to check how git ignores those files which are already committed in repo. This is the new line
+
+
+Manan - Parth
